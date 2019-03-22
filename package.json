@@ -5,8 +5,8 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "devserver": "nodemon server.js",
-    "start": "node server.js"
+    "devserver": "nodemon ./bin/dev",
+    "start": "node ./bin/dev"
   },
   "engines": {
     "node": "10.15.3"
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/arnelimperial/rest-api-heroku-deploy#readme",
   "devDependencies": {
+    "dotenv": "^7.0.0",
     "nodemon": "^1.18.10"
   },
   "dependencies": {
