@@ -50,5 +50,5 @@ db.once('open', () => {
 });
 
 
-server.get('/api', restify.plugins.serveStaticFiles('./public/api')
-);
+//server.get('/api', restify.plugins.serveStaticFiles('./public/api'));
+server.get('/', restify.plugins.serveStaticFiles('./public/api'));
