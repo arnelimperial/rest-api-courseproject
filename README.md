@@ -1,4 +1,4 @@
-# Data Industries RESTful API 
+# RESTful API in Third-party testing organization (Course project)
 
 > NodeJS REST API applied in simulated third-party testing organization. Deployed in Heroku platform and MLAB.
 
