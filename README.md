@@ -20,6 +20,8 @@ https://dataindustries.herokuapp.com/api
 
 ```
 
+### License
+zlib
 
 ### Coded by
 
