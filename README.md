@@ -6,19 +6,20 @@
 
 1.0.0
 
-## Built-With
+### Built-With
 
 - Restify
 - Mongoose
 - Dependencies are listed in package.json
 
 
-## Base URI
+#### Base URI
 
 https://dataindustries.herokuapp.com/api
 
 
-### License
+#### License
+
 zlib
 
 ### Coded by
