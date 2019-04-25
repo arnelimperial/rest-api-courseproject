@@ -15,10 +15,8 @@
 
 ## Base URI
 
-```bash
 https://dataindustries.herokuapp.com/api
 
-```
 
 ### License
 zlib
